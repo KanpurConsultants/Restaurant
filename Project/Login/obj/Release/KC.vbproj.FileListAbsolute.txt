@@ -1,0 +1,14 @@
+E:\Matrix\HT\Release\KC.exe
+E:\Matrix\HT\Release\KC.pdb
+E:\Matrix\HT\Release\KC.xml
+E:\Matrix\HT\Project\Login\obj\Release\ResolveAssemblyReference.cache
+E:\Matrix\HT\Project\Login\obj\Release\KC.FrmCompany.resources
+E:\Matrix\HT\Project\Login\obj\Release\KC.FrmDivisionSelection.resources
+E:\Matrix\HT\Project\Login\obj\Release\KC.FrmLogin.resources
+E:\Matrix\HT\Project\Login\obj\Release\KC.FrmSiteSelection.resources
+E:\Matrix\HT\Project\Login\obj\Release\KC.MDIMain.resources
+E:\Matrix\HT\Project\Login\obj\Release\KC.Resources.resources
+E:\Matrix\HT\Project\Login\obj\Release\KC.vbproj.GenerateResource.Cache
+E:\Matrix\HT\Project\Login\obj\Release\KC.exe
+E:\Matrix\HT\Project\Login\obj\Release\KC.xml
+E:\Matrix\HT\Project\Login\obj\Release\KC.pdb

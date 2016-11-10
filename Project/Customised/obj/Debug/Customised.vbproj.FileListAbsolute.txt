@@ -1,0 +1,175 @@
+D:\SchoolDress\Release\Customised.exe
+D:\SchoolDress\Release\Customised.pdb
+D:\SchoolDress\Release\Customised.xml
+D:\SchoolDress\Project\Customised\obj\Debug\ResolveAssemblyReference.cache
+D:\SchoolDress\Project\Customised\obj\Debug\Customised.FrmMoneyPayment.resources
+D:\SchoolDress\Project\Customised\obj\Debug\Customised.FrmCreditNote.resources
+D:\SchoolDress\Project\Customised\obj\Debug\Customised.FrmMoneyReceipt.resources
+D:\SchoolDress\Project\Customised\obj\Debug\Customised.FrmSaleEntry.resources
+D:\SchoolDress\Project\Customised\obj\Debug\Customised.FrmItem.resources
+D:\SchoolDress\Project\Customised\obj\Debug\Customised.FrmPurchaseEntry.resources
+D:\SchoolDress\Project\Customised\obj\Debug\Customised.TempItem.resources
+D:\SchoolDress\Project\Customised\obj\Debug\Customised.TempPurchInvoiceCommon.resources
+D:\SchoolDress\Project\Customised\obj\Debug\Customised.TempPayment.resources
+D:\SchoolDress\Project\Customised\obj\Debug\Customised.TempSaleInvoice.resources
+D:\SchoolDress\Project\Customised\obj\Debug\Customised.Resources.resources
+D:\SchoolDress\Project\Customised\obj\Debug\Customised.MDIMain.resources
+D:\SchoolDress\Project\Customised\obj\Debug\Customised.vbproj.GenerateResource.Cache
+D:\SchoolDress\Project\Customised\obj\Debug\Customised.exe
+D:\SchoolDress\Project\Customised\obj\Debug\Customised.xml
+D:\SchoolDress\Project\Customised\obj\Debug\Customised.pdb
+D:\SchoolDress\Project\Customised\obj\Debug\Customised.FrmSaleReturnEntry.resources
+D:\SchoolDress\Project\Customised\obj\Debug\Customised.FrmPurchaseReturnEntry.resources
+E:\Matrix\Hotel\Project\Customised\obj\Debug\ResolveAssemblyReference.cache
+E:\Matrix\Hotel\Project\Customised\obj\Debug\Customised.FrmSaleReturnEntry.resources
+E:\Matrix\Hotel\Project\Customised\obj\Debug\Customised.FrmMoneyPayment.resources
+E:\Matrix\Hotel\Project\Customised\obj\Debug\Customised.FrmCreditNote.resources
+E:\Matrix\Hotel\Project\Customised\obj\Debug\Customised.FrmMoneyReceipt.resources
+E:\Matrix\Hotel\Project\Customised\obj\Debug\Customised.FrmSaleEntry.resources
+E:\Matrix\Hotel\Project\Customised\obj\Debug\Customised.FrmPurchaseReturnEntry.resources
+E:\Matrix\Hotel\Project\Customised\obj\Debug\Customised.FrmPurchaseEntry.resources
+E:\Matrix\Hotel\Project\Customised\obj\Debug\Customised.FrmItem.resources
+E:\Matrix\Hotel\Project\Customised\obj\Debug\Customised.FrmBom.resources
+E:\Matrix\Hotel\Project\Customised\obj\Debug\Customised.TempPurchInvoiceCommon.resources
+E:\Matrix\Hotel\Project\Customised\obj\Debug\Customised.TempPayment.resources
+E:\Matrix\Hotel\Project\Customised\obj\Debug\Customised.TempSaleInvoice.resources
+E:\Matrix\Hotel\Project\Customised\obj\Debug\Customised.Resources.resources
+E:\Matrix\Hotel\Project\Customised\obj\Debug\Customised.MDIMain.resources
+E:\Matrix\Hotel\Project\Customised\obj\Debug\Customised.vbproj.GenerateResource.Cache
+E:\Matrix\Hotel\Project\Customised\obj\Debug\Customised.exe
+E:\Matrix\Hotel\Project\Customised\obj\Debug\Customised.xml
+E:\Matrix\Hotel\Project\Customised\obj\Debug\Customised.pdb
+E:\Matrix\Hotel\Release\Customised.exe
+E:\Matrix\Hotel\Release\Customised.pdb
+E:\Matrix\Hotel\Release\Customised.xml
+E:\Matrix\Hotel\Project\Customised\obj\Debug\Customised.FrmItemGroup.resources
+E:\Matrix\Hotel\Project\Customised\obj\Debug\Customised.FrmItemCategory.resources
+E:\Matrix\Hotel\Project\Customised\obj\Debug\Customised.FrmSteward.resources
+F:\Active Projects\HT\Project\Customised\obj\Debug\Customised.exe
+F:\Active Projects\HT\Project\Customised\obj\Debug\Customised.xml
+F:\Active Projects\HT\Project\Customised\obj\Debug\Customised.pdb
+F:\Active Projects\HT\Release\Customised.exe
+F:\Active Projects\HT\Release\Customised.pdb
+F:\Active Projects\HT\Release\Customised.xml
+F:\Active Projects\HT\Project\Customised\obj\Debug\ResolveAssemblyReference.cache
+F:\Active Projects\HT\Project\Customised\obj\Debug\Customised.FrmItemGroup.resources
+F:\Active Projects\HT\Project\Customised\obj\Debug\Customised.FrmItem.resources
+F:\Active Projects\HT\Project\Customised\obj\Debug\Customised.FrmItemCategory.resources
+F:\Active Projects\HT\Project\Customised\obj\Debug\Customised.FrmSaleReturnEntry.resources
+F:\Active Projects\HT\Project\Customised\obj\Debug\Customised.FrmMoneyPayment.resources
+F:\Active Projects\HT\Project\Customised\obj\Debug\Customised.FrmCreditNote.resources
+F:\Active Projects\HT\Project\Customised\obj\Debug\Customised.FrmMoneyReceipt.resources
+F:\Active Projects\HT\Project\Customised\obj\Debug\Customised.FrmSaleEntry.resources
+F:\Active Projects\HT\Project\Customised\obj\Debug\Customised.FrmPurchaseReturnEntry.resources
+F:\Active Projects\HT\Project\Customised\obj\Debug\Customised.FrmPurchaseEntry.resources
+F:\Active Projects\HT\Project\Customised\obj\Debug\Customised.FrmBom.resources
+F:\Active Projects\HT\Project\Customised\obj\Debug\Customised.TempPurchInvoiceCommon.resources
+F:\Active Projects\HT\Project\Customised\obj\Debug\Customised.TempPayment.resources
+F:\Active Projects\HT\Project\Customised\obj\Debug\Customised.TempSaleInvoice.resources
+F:\Active Projects\HT\Project\Customised\obj\Debug\Customised.FrmSteward.resources
+F:\Active Projects\HT\Project\Customised\obj\Debug\Customised.Resources.resources
+F:\Active Projects\HT\Project\Customised\obj\Debug\Customised.MDIMain.resources
+F:\Active Projects\HT\Project\Customised\obj\Debug\Customised.vbproj.GenerateResource.Cache
+F:\Active Projects\HT\Project\Customised\obj\Debug\Customised.FrmTableMaster.resources
+F:\Active Projects\HT\Project\Customised\obj\Debug\Customised.FrmTableStatusDisplay.resources
+F:\Active Projects\HT\Project\Customised\obj\Debug\Customised.FrmKOT.resources
+F:\Active Projects\HT\Project\Customised\obj\Debug\Customised.FrmKOTNature.resources
+F:\Active Projects\HT\Project\Customised\obj\Debug\Customised.FrmSaleInvoice.resources
+F:\Active Projects\HT\Project\Customised\obj\Debug\Customised.FrmEnviro.resources
+F:\Active Projects\HT\Project\Customised\obj\Debug\Customised.FrmSaleOrder.resources
+F:\Active Projects\HT\Project\Customised\obj\Debug\Customised.FrmMenuItem.resources
+F:\Active Projects\HT\Project\Customised\obj\Debug\Customised.FrmMenuItemCategory.resources
+F:\Active Projects\HT\Project\Customised\obj\Debug\Customised.FrmMenuItemGroup.resources
+F:\Active Projects\HT\Project\Customised\obj\Debug\Customised.FrmBillSetlement.resources
+F:\Active Projects\HT\Project\Customised\obj\Debug\Customised.FrmRequistion.resources
+F:\Active Projects\HT\Project\Customised\obj\Debug\Customised.FrmConsumptionEntry.resources
+F:\Active Projects\HT\Project\Customised\obj\Debug\Customised.FrmAdjustBills.resources
+F:\Active Projects\HT\Project\Customised\obj\Debug\Customised.FrmOutlet.resources
+F:\Active Projects\HT\Project\Customised\obj\Debug\Customised.FrmSaleWithoutKOT.resources
+E:\Matrix\HT\Project\Customised\obj\Debug\Customised.exe
+E:\Matrix\HT\Project\Customised\obj\Debug\Customised.xml
+E:\Matrix\HT\Project\Customised\obj\Debug\Customised.pdb
+E:\Matrix\HT\Release\Customised.exe
+E:\Matrix\HT\Release\Customised.pdb
+E:\Matrix\HT\Release\Customised.xml
+E:\Matrix\HT\Project\Customised\obj\Debug\ResolveAssemblyReference.cache
+E:\Matrix\HT\Project\Customised\obj\Debug\Customised.FrmSaleWithoutKOT.resources
+E:\Matrix\HT\Project\Customised\obj\Debug\Customised.FrmOutlet.resources
+E:\Matrix\HT\Project\Customised\obj\Debug\Customised.FrmBillSetlement.resources
+E:\Matrix\HT\Project\Customised\obj\Debug\Customised.FrmAdjustBills.resources
+E:\Matrix\HT\Project\Customised\obj\Debug\Customised.FrmMenuItemCategory.resources
+E:\Matrix\HT\Project\Customised\obj\Debug\Customised.FrmMenuItemGroup.resources
+E:\Matrix\HT\Project\Customised\obj\Debug\Customised.FrmMenuItem.resources
+E:\Matrix\HT\Project\Customised\obj\Debug\Customised.FrmSaleOrder.resources
+E:\Matrix\HT\Project\Customised\obj\Debug\Customised.FrmEnviro.resources
+E:\Matrix\HT\Project\Customised\obj\Debug\Customised.FrmRequistion.resources
+E:\Matrix\HT\Project\Customised\obj\Debug\Customised.TempSaleInvoice.resources
+E:\Matrix\HT\Project\Customised\obj\Debug\Customised.FrmSaleInvoice.resources
+E:\Matrix\HT\Project\Customised\obj\Debug\Customised.FrmKOTNature.resources
+E:\Matrix\HT\Project\Customised\obj\Debug\Customised.FrmItemGroup.resources
+E:\Matrix\HT\Project\Customised\obj\Debug\Customised.FrmItem.resources
+E:\Matrix\HT\Project\Customised\obj\Debug\Customised.FrmItemCategory.resources
+E:\Matrix\HT\Project\Customised\obj\Debug\Customised.FrmKOT.resources
+E:\Matrix\HT\Project\Customised\obj\Debug\Customised.FrmSaleReturnEntry.resources
+E:\Matrix\HT\Project\Customised\obj\Debug\Customised.FrmMoneyPayment.resources
+E:\Matrix\HT\Project\Customised\obj\Debug\Customised.FrmCreditNote.resources
+E:\Matrix\HT\Project\Customised\obj\Debug\Customised.FrmMoneyReceipt.resources
+E:\Matrix\HT\Project\Customised\obj\Debug\Customised.FrmSaleEntry.resources
+E:\Matrix\HT\Project\Customised\obj\Debug\Customised.FrmPurchaseReturnEntry.resources
+E:\Matrix\HT\Project\Customised\obj\Debug\Customised.FrmPurchaseEntry.resources
+E:\Matrix\HT\Project\Customised\obj\Debug\Customised.FrmBom.resources
+E:\Matrix\HT\Project\Customised\obj\Debug\Customised.FrmTableMaster.resources
+E:\Matrix\HT\Project\Customised\obj\Debug\Customised.FrmTableStatusDisplay.resources
+E:\Matrix\HT\Project\Customised\obj\Debug\Customised.TempPurchInvoiceCommon.resources
+E:\Matrix\HT\Project\Customised\obj\Debug\Customised.TempPayment.resources
+E:\Matrix\HT\Project\Customised\obj\Debug\Customised.FrmSteward.resources
+E:\Matrix\HT\Project\Customised\obj\Debug\Customised.FrmConsumptionEntry.resources
+E:\Matrix\HT\Project\Customised\obj\Debug\Customised.Resources.resources
+E:\Matrix\HT\Project\Customised\obj\Debug\Customised.MDIMain.resources
+E:\Matrix\HT\Project\Customised\obj\Debug\Customised.vbproj.GenerateResource.Cache
+E:\Matrix\HT\Project\Customised\obj\Debug\Customised.FrmNCat.resources
+D:\Active Project\HT\Project\Customised\obj\Debug\Customised.exe
+D:\Active Project\HT\Project\Customised\obj\Debug\Customised.pdb
+D:\Active Project\HT\Release\Customised.exe
+D:\Active Project\HT\Release\Customised.pdb
+D:\Active Project\HT\Project\Customised\obj\Debug\ResolveAssemblyReference.cache
+D:\Active Project\HT\Project\Customised\obj\Debug\Customised.FrmNCat.resources
+D:\Active Project\HT\Project\Customised\obj\Debug\Customised.FrmSaleWithoutKOT.resources
+D:\Active Project\HT\Project\Customised\obj\Debug\Customised.FrmOutlet.resources
+D:\Active Project\HT\Project\Customised\obj\Debug\Customised.FrmBillSetlement.resources
+D:\Active Project\HT\Project\Customised\obj\Debug\Customised.FrmAdjustBills.resources
+D:\Active Project\HT\Project\Customised\obj\Debug\Customised.FrmMenuItemCategory.resources
+D:\Active Project\HT\Project\Customised\obj\Debug\Customised.FrmMenuItemGroup.resources
+D:\Active Project\HT\Project\Customised\obj\Debug\Customised.FrmMenuItem.resources
+D:\Active Project\HT\Project\Customised\obj\Debug\Customised.FrmSaleOrder.resources
+D:\Active Project\HT\Project\Customised\obj\Debug\Customised.FrmEnviro.resources
+D:\Active Project\HT\Project\Customised\obj\Debug\Customised.FrmRequistion.resources
+D:\Active Project\HT\Project\Customised\obj\Debug\Customised.TempSaleInvoice.resources
+D:\Active Project\HT\Project\Customised\obj\Debug\Customised.FrmSaleInvoice.resources
+D:\Active Project\HT\Project\Customised\obj\Debug\Customised.FrmKOTNature.resources
+D:\Active Project\HT\Project\Customised\obj\Debug\Customised.FrmItemGroup.resources
+D:\Active Project\HT\Project\Customised\obj\Debug\Customised.FrmItem.resources
+D:\Active Project\HT\Project\Customised\obj\Debug\Customised.FrmItemCategory.resources
+D:\Active Project\HT\Project\Customised\obj\Debug\Customised.FrmKOT.resources
+D:\Active Project\HT\Project\Customised\obj\Debug\Customised.FrmSaleReturnEntry.resources
+D:\Active Project\HT\Project\Customised\obj\Debug\Customised.FrmMoneyPayment.resources
+D:\Active Project\HT\Project\Customised\obj\Debug\Customised.FrmCreditNote.resources
+D:\Active Project\HT\Project\Customised\obj\Debug\Customised.FrmMoneyReceipt.resources
+D:\Active Project\HT\Project\Customised\obj\Debug\Customised.FrmSaleEntry.resources
+D:\Active Project\HT\Project\Customised\obj\Debug\Customised.FrmPurchaseReturnEntry.resources
+D:\Active Project\HT\Project\Customised\obj\Debug\Customised.FrmPurchaseEntry.resources
+D:\Active Project\HT\Project\Customised\obj\Debug\Customised.FrmBom.resources
+D:\Active Project\HT\Project\Customised\obj\Debug\Customised.FrmTableMaster.resources
+D:\Active Project\HT\Project\Customised\obj\Debug\Customised.FrmTableStatusDisplay.resources
+D:\Active Project\HT\Project\Customised\obj\Debug\Customised.TempPurchInvoiceCommon.resources
+D:\Active Project\HT\Project\Customised\obj\Debug\Customised.TempPayment.resources
+D:\Active Project\HT\Project\Customised\obj\Debug\Customised.FrmSteward.resources
+D:\Active Project\HT\Project\Customised\obj\Debug\Customised.FrmConsumptionEntry.resources
+D:\Active Project\HT\Project\Customised\obj\Debug\Customised.Resources.resources
+D:\Active Project\HT\Project\Customised\obj\Debug\Customised.MDIMain.resources
+D:\Active Project\HT\Project\Customised\obj\Debug\Customised.vbproj.GenerateResource.Cache
+D:\Active Project\HT\Release\Customised.xml
+D:\Active Project\HT\Project\Customised\obj\Debug\Customised.xml
+D:\Project Backup\HT\Project\Customised\obj\Debug\Customised.exe
+D:\Project Backup\HT\Project\Customised\obj\Debug\Customised.xml
+D:\Project Backup\HT\Project\Customised\obj\Debug\Customised.pdb
